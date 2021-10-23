@@ -13,7 +13,7 @@ a{
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Roboto', sans-serif;
 }
 html{
     scroll-behavior: smooth;
@@ -58,7 +58,7 @@ img{
 
 /* header */
 .header{
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.2)), url('https://cf.bstatic.com/images/hotel/max1024x768/288/288306609.jpg') center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.2)), url('https://i.pinimg.com/736x/6e/39/4a/6e394a3a732e80778b0bdef4fcf07112.jpg') center/cover no-repeat;
     min-height: 100vh;
     color: #fff;
     padding: 25px;
@@ -316,7 +316,7 @@ img{
 .room{
     margin: 45px 0;
     padding-bottom: 25px;
-    background: var(--dark);
+    background-color: #192841;
     color: #fff;
 }
 .room-text{
@@ -391,7 +391,7 @@ img{
 .customers{
     margin-top: 40px;
     padding: 40px 0;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://cf.bstatic.com/images/hotel/max1024x768/206/206648161.jpg") center/cover no-repeat fixed;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://i1.wp.com/theluxurytravelexpert.com/wp-content/uploads/2017/12/VILLAGE-IGLOO-BLACKSHEEP-LA-PLAGNA-FRANCE.jpg?ssl=1") center/cover no-repeat fixed;
 }
 .customer{
     background: #fff;
