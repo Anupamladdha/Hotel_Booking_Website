@@ -2,8 +2,9 @@
 
 
 ## Team members
-- [Kushal Shah](https://github.com/Kushal-Ajay-Shah)
 - [Anupam Laddha](https://github.com/Anupamladdha)
+- [Aryan Khurana](https://github.com/AryanKhurana)
+- [Azeez Dandawala](https://github.com/azeez-72)
 
 ## Table of Contents
 
