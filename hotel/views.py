@@ -161,7 +161,7 @@ def success(request):
     }
 
     # client instance
-    client = razorpay.Client(auth=("rzp_test_v9Yll7cN20PlKo", "in8gnde7EZEQaGZ55Cp8mBCG"))
+    client = razorpay.Client(auth=("rzp_test_XGgRqJjQqXkwb4", "L1IDvwV3WhofyxQ9gHOToTs2"))
 
     try:
         status = client.utility.verify_payment_signature(params_dict)
